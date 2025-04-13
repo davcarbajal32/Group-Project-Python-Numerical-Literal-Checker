@@ -7,3 +7,7 @@ Tasks completed: Assisted in making the NFA design, and implimenting it for deci
 Name: Jed Alconcher
 Username: Decripted_Fudge
 Tasks: Assisted in making the NFA, and having the code be able to read and output a .txt file.
+
+Name: Noah Ojeda
+Username: knowsnoah
+Tasks: Assisted in making the NFA design, and implementing the acceptance of floating point integers. 
